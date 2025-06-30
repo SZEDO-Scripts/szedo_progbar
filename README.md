@@ -24,7 +24,7 @@ A simple, modern progress bar script for FiveM clients, featuring configurable d
 
 ## Usage 🎮
 
-### Triggering via Event 📢
+### Triggering via Export 📢
 
 ```lua
 exports['szedo_progbar']:Progbar({
