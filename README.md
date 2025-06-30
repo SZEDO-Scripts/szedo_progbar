@@ -34,4 +34,4 @@ exports['szedo_progbar']:Progbar({
         disableMovement = true,
         disableCombat = true,
     }
-}, 
+})
